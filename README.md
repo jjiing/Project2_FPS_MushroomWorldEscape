@@ -7,11 +7,13 @@
 ## 📌 About game
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&style=flat)
 ![C#](https://img.shields.io/badge/-C%23-033963?logo=Csharp&style=flat)
-![C#](https://aleen42.github.io/badges/src/photoshop.svg)
+
 +  다양한 몬스터를 처치해 클리어하는 귀여운 컨셉의 FPS게임
 + 2022.05.23 ~ 06.05(2주)
 + 개인 프로젝트  
-+ 깃허브에 업로드 돼있는 파일은 유니티 프로젝트 파일과 개발일지 파일 입니다.
++ 업로드 파일설명
+  * Personal_project_final : 유니티 프로젝트 파일
+  * 개인프로젝트 개발일지 : 개발일지 한글 파일
 
 </br></br>
 ## 🔗 파일 및 링크
