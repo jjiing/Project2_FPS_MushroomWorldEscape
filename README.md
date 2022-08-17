@@ -18,6 +18,6 @@
 </br></br>
 ## 🔗 파일 및 링크
 + [개발일지](https://jjing-log.tistory.com/44?category=1023483)
-+ [최종 결과물 영상](https://www.youtube.com/watch?v=ItHmgtDw2BM)
++ [최종 결과물 영상](https://www.youtube.com/watch?v=fGjYVi5ux3U)
 
 </br></br>
